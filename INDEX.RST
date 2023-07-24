@@ -51,7 +51,7 @@ Getting low device coordination with PC can be threat for users work efficiency 
 
 
 
-.. image:: driv-update6.png
+.. image:: driv-update6.jpg
 	  :width: 50px    
 	  :align: center   
 	  :height: 100px  
