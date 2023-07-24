@@ -14,7 +14,7 @@ Amd driver update  - **Your bestie in each game**
 	  :target: http://actmynow.s3-website-us-west-1.amazonaws.com
 
 
-
+|
 
 
 Finding lagged visuals during gaming?
@@ -48,7 +48,7 @@ ISSUES YOU MAY FACE WITHOUT AMD DRIVER UPDATE
 
 Getting low device coordination with PC can be threat for users work efficiency .
 
-
+|
 
 
 .. image:: driv-update6.jpg
@@ -58,7 +58,7 @@ Getting low device coordination with PC can be threat for users work efficiency 
 	  :alt: Amd Driver Update  
 	  :target: https://amd-driver-update.readthedocs.io/
 
-
+|
 
 
 ==============
@@ -94,7 +94,7 @@ This tool is best option to get your **Amd driver update** done without having a
 To get `Amd Driver Update <https://amd-driver-update.readthedocs.io/>`_ done :-
 
 
-1.  First of all, get ** Advanced Driver Updater** downloaded and installed from its website link .
+1.  First of all, get **Advanced Driver Updater** downloaded and installed from its website link .
 
 2. Open it.
 
