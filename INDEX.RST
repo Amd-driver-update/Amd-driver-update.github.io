@@ -38,7 +38,7 @@ ISSUES YOU MAY FACE WITHOUT AMD DRIVER UPDATE
 1. LAGGING VISUALS-
 ================
 
- Flickering and disturbed video quality may arise as a consequence of `AMD Driver Update</>`_ not done .
+ Flickering and disturbed video quality may arise as a consequence of `Amd Driver Update <https://dell-driver-update.readthedocs.io/>`_ not done .
 
 
 
@@ -56,8 +56,7 @@ Getting low device coordination with PC can be threat for users work efficiency 
 	  :align: center   
 	  :height: 100px  
 	  :alt: Amd Driver Update  
-	  :target: https://amd-driver-update.github.io/
-
+	  :target: <https://dell-driver-update.readthedocs.io/
 
 
 
@@ -74,7 +73,7 @@ You may face issues against proper workflow.
 4. Challange in game installation- 
 ============
 
-You may find certain loopholes during download of new operating system without `AMD Driver Update</>`_ done.
+You may find certain loopholes during download of new operating system without `Amd Driver Update <https://dell-driver-update.readthedocs.io/>`_ done.
 
 
 
@@ -92,7 +91,7 @@ This tool is best option to get your **Amd driver update** done without having a
 
 
 
-To get `AMD Driver Update</>`_ done :-
+To get `Amd Driver Update <https://dell-driver-update.readthedocs.io/>`_ done :-
 
 
 1.  First of all, get ** Advanced Driver Updater** downloaded and installed from its website link .
