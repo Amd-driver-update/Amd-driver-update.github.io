@@ -52,7 +52,7 @@ Getting low device coordination with PC can be threat for users work efficiency 
 
 
 .. image:: driv-update6.jpg
-	  :width: 250px    
+	  :width: 300px    
 	  :align: center   
 	  :height: 100px  
 	  :alt: Amd Driver Update  
