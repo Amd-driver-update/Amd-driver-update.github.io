@@ -52,7 +52,7 @@ You may find certain loopholes during download of new operating system without [
 
 
 
-[![Amd driver update](driv-update6.png)]()
+[![Amd driver update](driv-update6.jpg)]()
 
 
 
