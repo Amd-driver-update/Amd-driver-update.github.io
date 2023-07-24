@@ -52,11 +52,11 @@ Getting low device coordination with PC can be threat for users work efficiency 
 
 
 .. image:: driv-update6.jpg
-	  :width: 50px    
+	  :width: 250px    
 	  :align: center   
 	  :height: 100px  
 	  :alt: Amd Driver Update  
-	  :target: <https://dell-driver-update.readthedocs.io/
+	  :target: https://amd-driver-update.readthedocs.io/
 
 
 
