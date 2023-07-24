@@ -20,7 +20,7 @@ Amd driver update  - **Your bestie in each game**
 Finding lagged visuals during gaming?
 
 
-Getting lower efficiency in PC performance is major cause of concern for majority of users . We are here to bring you with most updated and reliable solution for you - `AMD Driver Update</>`_ .
+Getting lower efficiency in PC performance is major cause of concern for majority of users . We are here to bring you with most updated and reliable solution for you - `Amd Driver Update <https://dell-driver-update.readthedocs.io/>`_ .
 
 
 
