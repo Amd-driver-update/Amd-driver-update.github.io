@@ -6,7 +6,7 @@
 
 
 
-[![Amd driver update](lets-start.png)](http://actmynow.s3-website-us-west-1.amazonaws.com)
+[![Amd driver update](lets-start.png)](https://driverupdate.webconnectus.com)
 
 
 
